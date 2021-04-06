@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\bin\Debug\Probabilidade_Estatistica.exe.config
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\bin\Debug\Probabilidade_Estatistica.exe
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\bin\Debug\Probabilidade_Estatistica.pdb
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.Esperanca.resources
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.Form1.resources
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.Properties.Resources.resources
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.exe
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Probabilidade_Estatistica\obj\Debug\Probabilidade_Estatistica.pdb
